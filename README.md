@@ -20,7 +20,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,react,python,git,github,vscode,androidstudio,ubuntu)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,react,typescript,python,git,github,vscode,androidstudio,ubuntu)]()
 
 
 
